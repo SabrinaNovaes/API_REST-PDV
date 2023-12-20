@@ -198,7 +198,7 @@ Projeto desenvolvido pelo grupo PinkPackets. Consiste na criação de uma API de
 ```shell
 # 1. Clone o projeto
 
-  git clone <> - SSH
+  git clone <git@github.com:SabrinaNovaes/API_REST-PDV.git> - SSH
   git clone <> - HTTPS
 
 # 2. Instale as dependências
